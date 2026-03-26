@@ -16,7 +16,7 @@ I am a CS student focused on low-level programming and systems architecture. I p
 
 ## 📫 Contact
 * **Email:** margolm.kontakt@gmail.com
-* **LinkedIn:**[Your LinkedIn Profile URL](https://www.linkedin.com/in/marcin-margol-471b46339/)## Hi there 👋
+* **LinkedIn:**[Link](https://www.linkedin.com/in/marcin-margol-471b46339/)👋
 
 
 
