@@ -11,12 +11,12 @@ I am a CS student focused on low-level programming and systems architecture. I p
 
 ## 💻 Featured Projects
 * **[Interactive Backup Manager](https://github.com/morten31/InteractiveBackupManager)** - A high-performance Linux CLI tool written in **C**. Utilizes multiprocessing and the `inotify` API for real-time, parallel directory synchronization and resource management.
-* **[Ray-Tracer](link_do_repozytorium)** - A performance-oriented engine in modern **C++** implementing path tracing, vector math, and material physics.
+* **[Ray-Tracer](https://github.com/morten31/Cpp-Ray-Tracer)** - A performance-oriented engine in modern **C++** implementing path tracing, vector math, and material physics.
 * **[RPG Game](https://github.com/morten31/LabirynthCrawler)** - An ongoing **C#** project focused on practical implementation of a full suite of Object-Oriented Design patterns.
 
 ## 📫 Contact
 * **Email:** margolm.kontakt@gmail.com
-* **LinkedIn:**[Link](https://www.linkedin.com/in/marcin-margol-471b46339/)👋
+* **LinkedIn:**[Click here 👋](https://www.linkedin.com/in/marcin-margol-471b46339/)
 
 
 
