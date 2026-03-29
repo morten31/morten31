@@ -4,7 +4,7 @@
 I am a CS student focused on low-level programming and systems architecture. I prioritize a first-principles approach to problem-solving, aiming to deeply understand the underlying mechanisms of computer systems to build a robust foundation for high-level abstractions.
 
 ## 🛠️ Tech Stack
-* **Languages:** C, C++, C#, Python, SQL
+* **Languages:** C, C++, C#, SQL, R, Python
 * **Architecture & OS:** Linux System API, Multithreading, Memory Management, POSIX
 * **Software Engineering:** OOP, SOLID, Design Patterns
 * **Tools:** Git, Bash Scripting, Docker
